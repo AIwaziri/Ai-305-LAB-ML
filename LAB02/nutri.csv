@@ -1,0 +1,227 @@
+Unnamed: 0,gender,situation,tea,coffee,height,weight,age,meat,fish,raw_fruit,cooked_fruit_veg,chocol,fat
+0,Female,1,0,0,151.0,58,72,4,3,1,4,5,"Mix of vegetable oils (e.g., Isio4)"
+1,Female,1,1,1,162.0,60,68,5,2,5,5,1,Sunflower oil
+2,Female,1,0,4,162.0,75,78,3,1,5,2,5,Sunflower oil
+3,Female,1,0,0,154.0,45,91,0,4,4,0,3,Margarine
+4,Female,1,2,1,154.0,50,65,5,3,5,5,3,Margarine
+5,Female,1,2,0,159.0,66,82,4,2,5,5,1,Peanut oil
+6,Female,1,2,0,160.0,66,74,3,3,5,5,5,"Mix of vegetable oils (e.g., Isio4)"
+7,Female,1,0,2,163.0,66,73,4,2,5,5,1,"Mix of vegetable oils (e.g., Isio4)"
+8,Female,1,0,3,154.0,60,89,4,3,5,5,5,"Mix of vegetable oils (e.g., Isio4)"
+9,Female,1,0,2,160.0,77,87,2,3,5,4,0,Peanut oil
+10,Female,1,0,2,175.0,68,91,5,2,5,5,5,Peanut oil
+11,Female,1,2,0,165.0,75,81,5,2,2,3,0,"Mix of vegetable oils (e.g., Isio4)"
+12,Female,1,0,3,158.0,53,89,4,2,5,5,5,Sunflower oil
+13,Female,1,2,0,155.0,63,79,3,1,5,3,2,Sunflower oil
+14,Female,1,0,2,154.0,80,83,3,3,5,5,1,Peanut oil
+15,Male,1,0,3,166.0,80,78,5,0,5,3,0,Sunflower oil
+16,Female,1,0,2,159.0,57,74,3,2,5,3,1,Sunflower oil
+17,Female,1,0,2,157.0,55,74,3,2,5,5,2,Peanut oil
+18,Male,1,0,1,165.0,57,78,5,2,5,5,5,Sunflower oil
+19,Female,1,0,0,156.0,90,78,5,1,5,5,2,Sunflower oil
+20,Male,2,0,1,175.0,90,73,5,1,5,3,2,Duck or goose fat
+21,Female,2,2,2,161.0,68,76,4,2,5,5,1,Butter
+22,Male,2,2,2,168.0,83,85,4,2,5,5,1,Butter
+23,Male,1,0,4,168.0,90,73,3,2,4,5,0,Peanut oil
+24,Female,2,3,1,156.0,56,77,3,2,5,3,0,Sunflower oil
+25,Male,2,3,2,170.0,70,74,3,2,5,3,0,Sunflower oil
+26,Female,1,0,0,162.0,58,67,4,3,5,5,0,Peanut oil
+27,Male,2,4,5,172.0,80,68,5,3,5,5,5,Olive oil
+28,Female,1,1,1,165.0,75,69,4,3,5,5,5,Peanut oil
+29,Male,2,0,2,171.0,81,71,4,2,5,5,5,Peanut oil
+30,Female,2,0,1,160.0,54,67,4,4,5,3,2,Sunflower oil
+31,Male,2,0,3,176.0,82,76,3,3,3,5,5,"Mix of vegetable oils (e.g., Isio4)"
+32,Male,2,0,3,164.0,53,69,5,3,5,5,1,Olive oil
+33,Female,2,1,2,156.0,58,67,5,3,5,5,5,Peanut oil
+34,Female,1,0,2,153.0,70,69,5,0,5,5,3,Olive oil
+35,Male,2,1,0,159.0,70,85,3,1,5,4,5,Butter
+36,Male,2,0,5,170.0,60,74,4,2,5,5,5,Butter
+37,Male,3,0,0,178.0,87,78,3,2,4,3,2,Butter
+38,Male,2,1,2,172.0,86,73,2,5,5,5,1,Sunflower oil
+39,Male,2,0,3,186.0,95,74,4,3,5,5,5,Sunflower oil
+40,Female,2,0,3,168.0,77,69,4,3,5,5,5,Sunflower oil
+41,Male,1,0,0,181.0,94,71,3,2,5,3,5,Olive oil
+42,Male,1,0,1,172.0,62,85,5,3,5,5,0,Olive oil
+43,Male,2,0,0,160.0,55,70,5,3,5,5,5,Margarine
+44,Female,2,0,0,155.0,50,73,5,1,5,5,0,Peanut oil
+45,Male,2,0,1,172.0,81,74,5,1,5,5,0,Peanut oil
+46,Female,2,0,2,160.0,62,77,3,2,3,5,0,Sunflower oil
+47,Female,1,0,1,158.0,51,69,5,1,5,5,1,Sunflower oil
+48,Female,1,0,2,160.0,49,76,3,3,5,5,3,Sunflower oil
+49,Female,1,0,0,164.0,70,79,3,3,4,5,0,Olive oil
+50,Female,2,0,3,153.0,60,65,3,3,3,4,3,Sunflower oil
+51,Male,2,0,4,169.0,68,66,3,3,1,4,1,Sunflower oil
+52,Female,1,2,1,165.0,65,85,5,5,5,5,3,Olive oil
+53,Male,1,0,2,166.0,66,90,3,2,5,3,0,Peanut oil
+54,Male,1,0,3,176.0,85,75,5,5,5,2,0,Margarine
+55,Male,2,0,2,180.0,79,78,1,3,5,5,1,Butter
+56,Male,1,0,2,174.0,75,87,3,3,5,5,5,Butter
+57,Female,1,0,2,160.0,60,88,3,1,5,3,0,Peanut oil
+58,Female,1,0,1,160.0,67,89,3,4,3,5,1,Sunflower oil
+59,Male,2,0,0,188.0,82,70,4,3,5,4,0,Peanut oil
+60,Female,2,2,0,160.0,83,71,3,3,5,4,3,"Mix of vegetable oils (e.g., Isio4)"
+61,Male,2,0,2,179.0,67,76,5,2,5,3,3,Margarine
+62,Female,2,2,1,157.0,57,72,5,2,1,5,5,Sunflower oil
+63,Male,2,0,2,188.0,96,88,3,3,5,5,0,Margarine
+64,Male,1,0,3,174.0,74,68,3,5,5,5,5,Olive oil
+65,Male,1,0,2,173.0,75,72,5,3,5,3,5,Butter
+66,Female,1,0,3,160.0,60,78,4,3,5,3,1,"Mix of vegetable oils (e.g., Isio4)"
+67,Female,1,0,2,150.0,55,67,5,2,5,5,0,Peanut oil
+68,Male,2,4,1,170.0,76,76,4,3,5,4,1,Sunflower oil
+69,Male,2,0,3,180.0,90,68,5,3,5,5,5,Sunflower oil
+70,Female,2,0,2,152.0,60,69,5,3,5,4,1,Sunflower oil
+71,Male,2,0,3,162.0,74,67,5,3,5,4,2,Sunflower oil
+72,Female,2,1,2,152.0,64,66,5,3,3,5,5,Peanut oil
+73,Male,2,0,2,165.0,90,79,5,2,5,5,5,Olive oil
+74,Female,2,0,0,154.0,42,78,3,2,2,5,1,Olive oil
+75,Male,2,0,1,173.0,80,74,3,3,4,5,5,Olive oil
+76,Female,2,0,5,153.0,59,71,4,3,5,5,5,Olive oil
+77,Female,2,0,1,175.0,50,77,3,4,5,5,4,Margarine
+78,Male,2,0,0,177.0,63,78,3,4,5,5,0,Margarine
+79,Male,2,0,3,172.0,79,78,4,2,5,5,1,Peanut oil
+80,Female,2,4,1,167.0,70,75,4,2,5,5,1,Peanut oil
+81,Female,2,0,2,155.0,52,67,3,1,5,4,0,Sunflower oil
+82,Female,1,0,0,162.0,58,74,3,2,1,5,0,Sunflower oil
+83,Female,1,0,2,156.0,54,76,4,2,5,5,3,Sunflower oil
+84,Female,1,2,0,152.0,44,73,3,3,5,0,5,Margarine
+85,Female,1,3,0,156.0,58,72,3,4,5,5,0,Olive oil
+86,Female,2,0,2,160.0,62,78,3,3,4,5,4,Sunflower oil
+87,Male,2,0,2,170.0,69,84,3,0,4,5,0,Sunflower oil
+88,Female,2,4,0,164.0,80,65,3,2,3,3,1,Olive oil
+89,Female,1,2,0,160.0,53,71,3,3,5,5,0,Peanut oil
+90,Male,2,0,0,175.0,75,70,3,3,5,5,3,Peanut oil
+91,Female,1,0,2,161.0,56,71,4,3,4,5,5,Margarine
+92,Female,2,0,2,168.0,70,69,4,3,5,4,5,Margarine
+93,Male,2,0,2,175.0,85,77,4,3,5,4,5,Margarine
+94,Male,1,0,2,186.0,85,74,2,4,5,5,0,Olive oil
+95,Male,2,0,2,176.0,75,86,4,2,4,5,0,Sunflower oil
+96,Female,2,0,2,158.0,73,79,4,2,4,5,0,Sunflower oil
+97,Female,1,0,4,167.0,69,71,5,4,5,5,5,Olive oil
+98,Male,2,3,0,186.0,63,72,4,3,5,4,4,Peanut oil
+99,Female,2,3,0,165.0,67,70,4,3,5,4,5,Peanut oil
+100,Female,2,0,2,168.0,69,66,3,3,5,5,5,Butter
+101,Female,1,0,2,156.0,57,68,4,2,4,4,3,Margarine
+102,Female,1,0,0,164.0,90,68,3,2,3,2,1,Sunflower oil
+103,Female,1,1,1,163.0,45,74,4,3,5,5,5,"Mix of vegetable oils (e.g., Isio4)"
+104,Male,1,0,0,170.0,77,72,4,4,5,1,5,Sunflower oil
+105,Male,1,0,0,172.0,74,73,4,1,5,3,5,Sunflower oil
+106,Female,1,4,0,162.0,51,78,5,1,5,4,5,Sunflower oil
+107,Female,1,2,1,163.0,75,89,3,3,5,5,1,Margarine
+108,Male,2,0,2,178.0,80,67,5,3,2,3,3,Sunflower oil
+109,Female,1,0,2,148.0,50,87,5,2,5,5,5,Sunflower oil
+110,Female,2,2,0,155.0,71,81,5,2,1,5,1,Sunflower oil
+111,Male,2,2,0,168.0,65,70,5,2,1,5,1,Sunflower oil
+112,Female,1,0,0,165.0,60,77,5,3,5,5,5,Sunflower oil
+113,Male,2,0,0,163.0,71,86,4,2,4,5,5,Peanut oil
+114,Female,2,0,0,154.0,50,78,4,2,4,5,5,Peanut oil
+115,Female,1,0,1,163.0,61,70,5,1,2,5,5,Sunflower oil
+116,Female,2,9,0,159.0,68,74,4,3,2,5,0,Colza oil
+117,Male,2,2,1,181.0,76,78,4,3,5,5,5,Olive oil
+118,Female,2,4,1,154.0,53,76,4,3,5,5,5,Olive oil
+119,Male,2,0,2,172.0,75,76,3,4,5,5,1,Olive oil
+120,Female,2,2,0,163.0,58,67,2,4,5,5,3,Olive oil
+121,Female,1,1,1,158.0,42,67,1,2,5,2,5,Peanut oil
+122,Female,1,0,3,150.0,56,77,4,2,2,5,0,Peanut oil
+123,Female,1,0,2,153.0,48,72,3,3,4,4,4,Sunflower oil
+124,Male,2,0,1,170.0,55,74,5,2,5,5,1,Butter
+125,Female,2,2,3,164.0,54,75,5,3,5,5,1,Margarine
+126,Male,2,2,3,165.0,64,78,5,3,5,5,1,Margarine
+127,Female,1,0,2,151.0,38,66,4,4,5,5,5,Margarine
+128,Male,2,0,1,172.0,78,84,3,3,5,5,1,Sunflower oil
+129,Female,2,0,2,153.0,64,82,3,2,5,5,1,Sunflower oil
+130,Male,1,0,1,173.0,75,80,4,3,5,4,2,Olive oil
+131,Male,2,0,3,188.0,75,75,5,3,5,5,5,Sunflower oil
+132,Female,2,0,3,160.0,58,69,5,3,5,5,1,Sunflower oil
+133,Male,2,0,3,174.0,73,69,4,3,5,5,5,Sunflower oil
+134,Female,2,0,2,150.0,40,70,4,3,5,5,5,Sunflower oil
+135,Female,1,0,2,168.0,63,69,3,3,4,5,1,Peanut oil
+136,Female,2,2,1,162.0,55,65,3,3,5,5,1,Peanut oil
+137,Female,1,10,1,158.0,63,75,5,2,5,5,5,Sunflower oil
+138,Female,1,0,2,140.0,56,84,3,1,3,3,4,Peanut oil
+139,Male,1,0,3,172.0,74,81,5,1,5,5,3,Margarine
+140,Female,1,1,0,156.0,54,79,3,5,5,5,0,Olive oil
+141,Female,3,0,0,160.0,60,76,4,3,5,2,2,Sunflower oil
+142,Male,2,0,3,170.0,75,71,4,2,5,5,3,Peanut oil
+143,Female,2,2,0,165.0,69,77,5,2,5,5,1,Peanut oil
+144,Male,2,0,3,163.0,70,70,5,3,5,5,2,Peanut oil
+145,Female,2,0,3,160.0,50,70,3,2,5,5,1,Peanut oil
+146,Male,2,0,3,165.0,75,73,3,2,5,5,1,Peanut oil
+147,Female,2,0,3,156.0,53,71,5,1,5,5,0,Sunflower oil
+148,Male,2,0,2,178.0,82,76,5,2,5,5,5,Sunflower oil
+149,Female,2,0,4,160.0,75,69,4,2,2,5,1,Peanut oil
+150,Female,1,0,3,171.0,72,75,5,3,5,5,1,Margarine
+151,Female,3,0,1,156.0,64,80,3,3,5,5,1,Butter
+152,Female,1,0,3,150.0,60,76,3,3,5,3,1,"Mix of vegetable oils (e.g., Isio4)"
+153,Female,1,0,4,162.0,53,65,4,3,5,5,5,Margarine
+154,Female,2,3,0,164.0,67,67,4,3,5,5,1,"Mix of vegetable oils (e.g., Isio4)"
+155,Male,2,0,2,178.0,66,70,4,3,5,5,1,"Mix of vegetable oils (e.g., Isio4)"
+156,Female,2,1,2,166.0,55,76,4,3,5,5,0,Butter
+157,Female,1,0,3,151.0,60,72,3,3,5,5,1,Sunflower oil
+158,Male,2,0,2,169.0,74,77,3,2,5,2,2,Sunflower oil
+159,Female,2,0,0,155.0,45,73,3,3,5,5,0,Margarine
+160,Male,1,0,1,176.0,75,77,3,3,5,5,3,Olive oil
+161,Male,1,0,5,171.0,74,70,5,2,0,3,2,Butter
+162,Female,3,0,3,165.0,75,73,3,3,5,5,1,Sunflower oil
+163,Male,2,4,0,176.0,82,66,3,3,5,5,0,Olive oil
+164,Female,1,1,1,158.0,55,85,3,3,3,4,3,Peanut oil
+165,Female,1,0,3,153.0,69,72,3,3,1,4,2,Olive oil
+166,Female,1,0,2,155.0,64,78,2,0,5,3,0,Peanut oil
+167,Female,1,0,2,155.0,65,82,4,4,5,1,0,"Mix of vegetable oils (e.g., Isio4)"
+168,Female,1,0,0,169.0,60,75,3,3,5,4,2,"Mix of vegetable oils (e.g., Isio4)"
+169,Female,1,2,0,148.0,60,73,3,1,3,4,3,Sunflower oil
+170,Female,1,0,0,156.0,52,72,4,2,0,5,5,Sunflower oil
+171,Male,3,0,2,166.0,92,79,5,2,5,5,0,Duck or goose fat
+172,Female,1,0,5,155.0,57,69,2,1,2,4,5,Sunflower oil
+173,Female,3,2,1,154.0,78,66,4,3,3,5,0,Sunflower oil
+174,Male,1,0,3,164.0,78,75,3,3,5,5,0,Olive oil
+175,Male,2,0,2,175.0,56,75,5,3,5,5,1,Duck or goose fat
+176,Female,2,0,2,162.0,71,73,5,3,5,5,0,Duck or goose fat
+177,Female,2,0,1,158.0,65,69,2,2,5,5,5,Peanut oil
+178,Female,2,0,3,154.0,51,76,4,3,5,5,0,Sunflower oil
+179,Female,1,0,2,160.0,70,72,5,3,5,5,0,Peanut oil
+180,Female,1,0,2,163.0,72,72,5,3,5,5,0,Peanut oil
+181,Female,2,0,1,152.0,53,78,3,2,5,5,3,Sunflower oil
+182,Female,1,0,1,163.0,62,68,3,3,3,5,0,"Mix of vegetable oils (e.g., Isio4)"
+183,Female,1,3,1,170.0,61,83,1,5,5,5,5,Olive oil
+184,Male,2,0,1,182.0,74,75,3,3,5,4,2,"Mix of vegetable oils (e.g., Isio4)"
+185,Female,2,2,1,163.0,68,70,3,3,5,4,2,"Mix of vegetable oils (e.g., Isio4)"
+186,Male,2,0,2,170.0,75,74,3,3,5,4,1,Margarine
+187,Female,2,6,0,158.0,62,75,3,3,5,4,0,Margarine
+188,Male,2,0,2,182.0,90,66,5,2,5,3,1,Olive oil
+189,Female,3,1,0,164.0,64,77,5,3,5,5,4,Olive oil
+190,Female,1,0,2,156.0,68,72,3,3,5,3,1,Butter
+191,Male,2,0,2,172.0,91,73,2,4,5,4,1,Olive oil
+192,Male,2,0,2,162.0,75,65,4,2,4,5,1,Peanut oil
+193,Female,2,0,1,150.0,48,73,5,3,5,5,5,Sunflower oil
+194,Female,1,2,1,160.0,65,81,4,3,4,5,4,Peanut oil
+195,Female,1,0,2,152.0,54,69,3,3,5,3,4,Margarine
+196,Male,1,0,2,165.0,54,70,3,3,5,2,1,Margarine
+197,Female,2,0,3,155.0,63,71,4,3,5,5,0,Sunflower oil
+198,Male,2,0,2,168.0,67,73,4,3,5,5,0,Sunflower oil
+199,Female,3,0,1,154.0,63,74,5,2,5,5,0,"Mix of vegetable oils (e.g., Isio4)"
+200,Male,2,0,0,176.0,74,72,3,3,5,3,3,Butter
+201,Female,1,3,1,154.0,53,71,3,1,3,1,4,Peanut oil
+202,Male,1,0,2,168.0,67,69,3,3,5,5,1,Peanut oil
+203,Female,2,0,1,163.0,61,66,2,2,5,3,4,"Mix of vegetable oils (e.g., Isio4)"
+204,Male,2,0,1,177.0,80,74,2,2,5,3,4,"Mix of vegetable oils (e.g., Isio4)"
+205,Male,2,4,2,168.0,73,67,2,4,5,3,0,Olive oil
+206,Female,1,0,2,171.0,65,76,3,3,5,5,5,Olive oil
+207,Female,1,5,1,160.0,62,84,3,3,4,5,5,Margarine
+208,Female,1,0,3,168.0,64,84,3,3,5,3,5,Olive oil
+209,Female,1,2,2,160.0,48,78,5,3,5,5,3,Sunflower oil
+210,Male,2,4,1,177.0,67,76,4,5,1,5,0,Peanut oil
+211,Female,3,0,2,160.0,80,71,3,3,4,4,1,Margarine
+212,Male,2,0,3,165.0,76,80,5,1,5,5,1,Olive oil
+213,Female,2,1,0,157.0,80,79,5,1,5,5,1,Sunflower oil
+214,Male,2,0,1,176.0,73,66,4,3,5,5,1,Olive oil
+215,Female,2,0,1,151.0,48,66,4,3,4,5,5,Olive oil
+216,Female,2,0,5,153.0,53,69,4,3,5,5,1,Olive oil
+217,Female,2,2,0,165.0,64,75,4,3,5,4,5,Olive oil
+218,Male,2,0,0,171.0,85,73,4,3,5,4,1,Olive oil
+219,Male,2,0,5,167.0,76,82,3,3,5,4,5,"Mix of vegetable oils (e.g., Isio4)"
+220,Female,2,2,1,157.0,58,77,3,3,5,4,5,"Mix of vegetable oils (e.g., Isio4)"
+221,Female,1,0,1,160.0,73,74,4,3,5,5,1,"Mix of vegetable oils (e.g., Isio4)"
+222,Female,2,0,3,163.0,62,68,4,3,4,4,1,Peanut oil
+223,Male,2,0,2,170.0,74,71,4,3,4,4,1,Peanut oil
+224,Female,1,0,2,154.0,45,77,4,3,3,5,3,Olive oil
+225,Female,2,2,0,159.0,63,69,3,3,5,5,1,Sunflower oil
